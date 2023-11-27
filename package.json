@@ -12,6 +12,6 @@
     "vite": "^5.0.0"
   },
   "dependencies": {
-    "@briar-bear/super-element": "file:../../Objects/oop-practice"
+    "@briar-bear/super-element": "github:Briar-Bear/super-element"
   }
 }
